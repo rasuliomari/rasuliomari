@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Rasuli Omari!
-
+![twitter](https://img.shields.io/twitter/follow/OfficialRasoul?style=social)
 <!--
 **rasuliomari/rasuliomari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
