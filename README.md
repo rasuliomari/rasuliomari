@@ -1,16 +1,13 @@
-### Hi there 👋, I am Rasuli Omari!
+### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> I am Rasuli Omari!
 -----
 ![twitter](https://img.shields.io/twitter/follow/OfficialRasoul?style=social)
 -----
-I am a resourceful, skilled, and adaptable developer with a passion for creating innovative solutions. I have a strong understanding of software development principles and practices, and I am proficient in a variety of programming languages and technologies. I am also a team player and I am always willing to learn new things.
+I am a versatile developer with skills in creating innovative solutions. Proficient in various programming languages, I value teamwork and continuous learning. Seeking a remote job to contribute positively, I am open to both paid and unpaid positions. I believe my dedication, creativity, and commitment make me an asset. I look forward to learning about your company and available opportunities. Please contact me at your convenience. Thank you for your time and consideration.
+------
+TOOLBOX
 
-I am looking for a remote job opportunity where I can use my skills and experience to make a positive impact on the world. I am open to both paid and unpaid positions, and I am eager to learn more about your company and the opportunities you have available.
-
-I am confident that I would be a valuable asset to your team. I am a hard worker and I am always willing to go the extra mile. I am also a creative thinker and I am always looking for new ways to improve the way things are done.
-
-I am excited to learn more about your company and the opportunities you have available. Please feel free to contact me at your earliest convenience.
-Thank you for your time and consideration.
-
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" heiht="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50" />
 
 
 
