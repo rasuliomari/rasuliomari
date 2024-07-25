@@ -1,7 +1,7 @@
 ### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> I am Rasuli Omari!
 -----
 ![twitter](https://img.shields.io/twitter/follow/OfficialRasoul?style=social)
-![linkedin](https://www.linkedin.com/in/rasuli-omari-2807bb264/)
+![linkedin](https://img.shields.io/linkedin/follow/rasuli-omari-2807bb264/)
 
 -----
 I am a versatile developer with skills in creating innovative solutions. Proficient in various programming languages, I value teamwork and continuous learning. Seeking a remote job to contribute positively, I am open to both paid and unpaid positions. I believe my dedication, creativity, and commitment make me an asset. I look forward to learning about your company and available opportunities. Please contact me at your convenience. Thank you for your time and consideration.
